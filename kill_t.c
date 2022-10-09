@@ -6,5 +6,3 @@ int main(){
 	kill(6975,11);
 
 }
-
-lll
